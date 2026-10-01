@@ -6,7 +6,7 @@
   
 1. Go to [CodeAI Sign-In Page](https://studio.code.org/users/sign_in)  
 2. Click 'Sign in with Google' and select your email.
-  ![Step 1 image](Student-Coding-Tutorials/assets/images/SignUp/step1.png)
+  ![Step 1 image](assets/images/SignUp/step1.png)
 
 ## Creating a simple App Lab project
 In this tutorial, we will create a simple Tappy Tap game.  
@@ -16,7 +16,7 @@ In this tutorial, we will create a simple Tappy Tap game.
   
 ###Phase 1: Creating the main menu and the start button  
 1. Go to the Design tab and rename your screen to mainMenu
-2. [Create a new screen](Student-Coding-Tutorials/docs/CreateScreen.md) called gameScreen or an id or your choice but keep it descriptive
+2. [Create a new screen](CreateScreen.md) called gameScreen or an id or your choice but keep it descriptive
 3. Add a label for a heading and another one for a description of the game. Make sure you use descriptive IDs.  
 4. Add a button and call it startGameBtn. Make the text 'Start Game'.  
 5. Go back to the Code tab and insert this code:
