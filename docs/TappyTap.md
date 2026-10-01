@@ -27,3 +27,4 @@ In this tutorial, we will create a simple Tappy Tap game.
      setScreen("your_game_screen_id");  
    });
    ```
+[Proceed to next step](Score.md)
