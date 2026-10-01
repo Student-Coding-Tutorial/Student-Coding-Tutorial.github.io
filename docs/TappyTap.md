@@ -6,7 +6,8 @@
   
 1. Go to [CodeAI Sign-In Page](https://studio.code.org/users/sign_in)  
 2. Click 'Sign in with Google' and select your email.
-  ![Step 1 image](assets/images/SignUp/step1.png)
+  ![Step 1 image](images/step1.png)
+  ![Step 2 image](images/step2.png)
 
 ## Creating a simple App Lab project
 In this tutorial, we will create a simple Tappy Tap game.  
