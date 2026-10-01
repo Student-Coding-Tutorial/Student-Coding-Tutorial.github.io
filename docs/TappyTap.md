@@ -15,10 +15,13 @@ In this tutorial, we will create a simple Tappy Tap game.
 2. Select 'App Lab' from the list
   
 ###Phase 1: Creating the main menu and the start button  
-1. Go to the Design tab and rename your screen to mainMenu  
-2. Add a label for a heading and another one for a description of the game. Make sure you use descriptive IDs.  
-3. Add a button and call it startGameBtn. Make the text 'Start Game'.  
-4. Go back to the Code tab and insert this code:  
+1. Go to the Design tab and rename your screen to mainMenu
+2. [Create a new screen](docs/CreateScreen.md) called gameScreen or an id or your choice but keep it descriptive
+3. Add a label for a heading and another one for a description of the game. Make sure you use descriptive IDs.  
+4. Add a button and call it startGameBtn. Make the text 'Start Game'.  
+5. Go back to the Code tab and insert this code:
+6. ```
    onEvent("your_start_button_id","click",function() {  
      setScreen("your_game_screen_id");  
-   });  
+   });
+   ```
