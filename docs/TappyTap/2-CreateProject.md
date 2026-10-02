@@ -5,6 +5,20 @@ In this tutorial, we will create a simple Tappy Tap game.
 2. Select 'App Lab' from the list  
 ![Create New Project Image](../images/Step3-NewProject.png)  
 
+## Creating the menu screen
+1. Go to the Design Tab
+2. Rename the screen mainMenu or something similar
+3. Add a text label and give it a descriptive ID then in the text, put Tappy Tap Tap
+4. Add another label, again giving it a descriptive ID and put a brief description in it.
+5. Add a button, and call it StartGameBtn (or something similar)
+6. Go to the Code tab and select show text in the top right corner
+7. Copy this code into the editor:
+   ```
+   onEvent("YOUR_START_BUTTON_ID","click",function(){
+     setScreen("YOUR_GAME_SCREEN_ID");
+   });
+   ```
+
 ## Creating a New Screen
 1. Go to the Design Tab
 2. Click on the screen name on top of the phone image
@@ -18,4 +32,11 @@ To add the two circles and a score, follow these steps:
 [Blue Cirle](images/blue_dot.png)  
 [Red Circle](images/red_dot.png)  
 2. Upload them to CodeAI on your game screen:  
-![Uploading instructions image](../images/Step6-UploadingCircles.png)
+![Uploading instructions image](../images/Step6-UploadingCircles.png)  
+
+### Creating the score variable:
+1. Go to the editor tab and add this code:
+   ```
+   var score = "0";
+   ```
+   to declare a variable
