@@ -11,4 +11,4 @@
   ![Step 2 image](../images/Step2-SignUp.png)
 4. You should be taken to this page:  
 ![CodeAI Dashboard Image](../images/Dashboard.png)  
-[Next](CreateProject.md)
+## [Proceed to next step](CreateProject.md)
