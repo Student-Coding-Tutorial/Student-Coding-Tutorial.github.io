@@ -9,6 +9,6 @@
   ![Step 1 image](../images/Step1-SignUp.png)
 3. Select your email  
   ![Step 2 image](../images/Step2-SignUp.png)
-4. You should be taken to this page:
-   ![CodeAI Dashboard Image](../images/Dashboard.png)
+4. You should be taken to this page:  
+![CodeAI Dashboard Image](../images/Dashboard.png)  
 [Next](CreateProject.md)
