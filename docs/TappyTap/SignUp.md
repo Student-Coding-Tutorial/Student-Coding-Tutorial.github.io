@@ -6,6 +6,6 @@
   
 1. Go to [CodeAI Sign-In Page](https://studio.code.org/users/sign_in)  
 2. Click 'Sign in with Google'
-  ![Step 1 image](images/Step1-SignUp.png)
+  ![Step 1 image](../images/Step1-SignUp.png)
 3. Select your email  
-  ![Step 2 image](images/Step2-SignUp.png)
+  ![Step 2 image](../images/Step2-SignUp.png)
