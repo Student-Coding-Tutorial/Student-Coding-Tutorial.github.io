@@ -3,5 +3,5 @@ In this section we will explore adding a time limit and changing the screen afte
 ## Creating a Score Screen
 1. Go to the Design Tab
 2. Add a new screen called ScoreScreen (or something similar) with this image upload
-![Import Screen Instructions Image](../images/Step7-ImportScreen.png)
+![Import Screen Instructions Image](../images/Step7-ImportScreen.png)  
 [ScoreScreen Image](../images/congratulations.png)
