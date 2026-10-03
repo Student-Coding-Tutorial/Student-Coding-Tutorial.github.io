@@ -39,4 +39,6 @@ To add the two circles and a score, follow these steps:
    ```
    var score = "0";
    ```
-   to declare a variable
+   to declare a variable  
+
+## [Proceed to Next Step](3-AddLogic.md)
