@@ -16,4 +16,5 @@ Add a text label detailing that this is the score screen.
    }, YOUR_PREFERRED_NUMBER_OF_MILLISECONDS);
 >[!NOTE]
 >1000 milliseconds equals a second. For example, 5000 milliseconds equals 5 seconds. In the case of your game lasting 5 seconds, please replace 'YOUR_PREFERRED_NUMBER_OF_MILLISECONDS' with 5000.  
+  
 [Proceed to next step](5-Leaderboard.md)
